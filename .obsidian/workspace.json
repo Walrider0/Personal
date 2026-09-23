@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "22c7afc70743a6b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18b05b699fa86ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1b0f2bae5fbf5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "138e8bc512af630b",
+    "type": "split",
+    "children": [
+      {
+        "id": "11c710ec60c26c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cfab60635c539f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48d4506bc5305a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53da7ee45b883c85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.30001831054688
+  },
+  "right": {
+    "id": "f590566be6c4c9c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd33fcd3f3cbdcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6d6e0d55183e78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "asd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "de6d5a879b91595f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "asd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "70f15d55509f7ebd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5995d432ab607e44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e0c01b7c9f177a06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "asd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5b1b0f2bae5fbf5c",
+  "lastOpenFiles": [
+    "School/Robotika/Elmélet🧠/01 - Hardver és Mikrokontroller Alapok.md",
+    "School/Robotika/Elmélet🧠/02 - Fejlesztőkörnyezet és Programozási Alapok.md",
+    "Off-Topics/Hardware/ARM.md",
+    "Off-Topics/Hardware/RISC.md",
+    "School/Robotika/Gyakorlati✏️📝/asd.md",
+    "Off-Topics/Hardware/CISC.md",
+    "School/Robotika/Gyakorlati✏️📝",
+    "School/Robotika/Elmélet🧠",
+    "Off-Topics",
+    "Off-Topics/Hardware",
+    "School/Robotika/Elmélet🧠/06 - Potenciométer és Feszültségosztó.md",
+    "School/Robotika/Elmélet🧠/05 - Analóg-Digitális Átalakítás (ADC).md",
+    "School/Robotika/Elmélet🧠/04 - Alapvető Komponensek (LED, Nyomógomb, Dőléskapcsoló).md",
+    "School/Robotika/Elmélet🧠/03 - Elektronikai Alapismeretek és Méréstechnika.md",
+    "School/Bevezetés a szg. grafikába/01 - Raszteres és Vektor grafika.md",
+    "School/Robotika",
+    "Off-Topics/Programming/XML.md",
+    "Off-Topics/Programming/W3C.md",
+    "Off-Topics/Programming",
+    "School/Bevezetés a szg. grafikába/Lépcsőhatás.md",
+    "Image links",
+    "Image links/Pasted image 20260922215455.png",
+    "Szija.md",
+    "School/Kriptográfia",
+    "School/Bevezetés a szg. grafikába",
+    "School",
+    "golden_apple.gif",
+    "asd.md",
+    "2026-09-22.md",
+    "create a link.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "Untitled 1.canvas"
+  ]
+}
