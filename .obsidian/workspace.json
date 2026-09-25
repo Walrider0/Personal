@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d18b05b699fa86ff",
+        "id": "dbaffc5154fd7ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1b0f2bae5fbf5c",
+            "id": "7de2e605e55eb52f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b1b0f2bae5fbf5c",
+  "active": "7de2e605e55eb52f",
   "lastOpenFiles": [
+    "School/Algoritmusok/01 - Láncolt lista.md",
+    "School/Algoritmusok",
     "School/Robotika/Elmélet🧠/01 - Hardver és Mikrokontroller Alapok.md",
     "School/Robotika/Elmélet🧠/02 - Fejlesztőkörnyezet és Programozási Alapok.md",
     "Off-Topics/Hardware/ARM.md",
@@ -211,7 +212,6 @@
     "Szija.md",
     "School/Kriptográfia",
     "School/Bevezetés a szg. grafikába",
-    "School",
     "golden_apple.gif",
     "asd.md",
     "2026-09-22.md",
