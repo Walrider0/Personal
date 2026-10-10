@@ -1,0 +1,19 @@
+{
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ]
+}

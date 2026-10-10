@@ -11,10 +11,14 @@
             "id": "7de2e605e55eb52f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "School/Algoritmusok/01 - Láncolt lista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Láncolt lista"
             }
           }
         ]
@@ -185,11 +189,16 @@
   },
   "active": "7de2e605e55eb52f",
   "lastOpenFiles": [
+    "School/Algoritmusok/02 - Láncolt lista II..md",
+    "School/Kriptográfia/Kongruencia.md",
     "School/Kriptográfia/Knapsack.md",
+    "School/Robotika/Gyakorlati✏️📝/asd.md",
+    "School/Algoritmusok/01 - Láncolt lista.md",
+    "Untitled.base",
+    "School/Robotika/Elmélet🧠/07 - Analogból digitálisba.md",
     "School/Robotika/Elmélet🧠/06 - Potenciométer és Feszültségosztó.md",
     "School/Robotika/Elmélet🧠/05 - Analóg-Digitális Átalakítás (ADC).md",
     "School/Robotika/Elmélet🧠/04 - Alapvető Komponensek (LED, Nyomógomb, Dőléskapcsoló).md",
-    "School/Kriptográfia/Kongruencia.md",
     "School/Robotika/Elmélet🧠/03 - Elektronikai Alapismeretek és Méréstechnika.md",
     "breadboard.md",
     "Image links/Pasted image 20260922215455.png",
@@ -197,11 +206,9 @@
     "Image links/breadboard-1327459505.jpg",
     "School/Robotika/Elmélet🧠/02 - Fejlesztőkörnyezet és Programozási Alapok.md",
     "School/Robotika/Elmélet🧠/01 - Hardver és Mikrokontroller Alapok.md",
-    "School/Algoritmusok/01 - Láncolt lista.md",
     "School/Algoritmusok",
     "Off-Topics/Hardware/ARM.md",
     "Off-Topics/Hardware/RISC.md",
-    "School/Robotika/Gyakorlati✏️📝/asd.md",
     "Off-Topics/Hardware/CISC.md",
     "School/Robotika/Gyakorlati✏️📝",
     "School/Robotika/Elmélet🧠",
@@ -215,7 +222,6 @@
     "Image links",
     "Szija.md",
     "School/Kriptográfia",
-    "School/Bevezetés a szg. grafikába",
     "golden_apple.gif",
     "asd.md",
     "2026-09-22.md",
