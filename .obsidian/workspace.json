@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Algoritmusok/01 - Láncolt lista.md",
+                "file": "School/Algoritmusok/01 - Láncolt lista/05 - A műveletek időigénye.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Láncolt lista"
+              "title": "05 - A műveletek időigénye"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.30001831054688
+    "width": 279.1000061035156
   },
   "right": {
     "id": "f590566be6c4c9c0",
@@ -189,45 +189,48 @@
   },
   "active": "7de2e605e55eb52f",
   "lastOpenFiles": [
+    "School/Algoritmusok/01 - Láncolt lista/01 - Láncolt lista alapok.md",
+    "School/Algoritmusok/01 - Láncolt lista/02 - Az elemek összekapcsolása.md",
+    "School/Algoritmusok/01 - Láncolt lista/03 - Bejárat.md",
+    "School/Algoritmusok/01 - Láncolt lista/04 - Keresés kulcs alapján.md",
+    "School/Algoritmusok/01 - Láncolt lista/05 - A műveletek időigénye.md",
+    "School/Algoritmusok/01 - Láncolt lista",
+    "Off-Topics/Programming/W3C.md",
+    "Off-Topics/Math/Görög betűk jelentései.md",
+    "Off-Topics/Programming/XML.md",
+    "0 Table of Contents/Root.md",
+    "Untitled.base",
+    "2026-10-10.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "0 Table of Contents/Root.base",
+    "0 Table of Contents",
+    "Image links/Pasted image 20260922215455.png",
+    "Image links/Greek-alphabet-189968408.png",
+    "Image links/breadboard-1327459505.jpg",
+    "Image links/Greek-alphabet-189968408.png",
+    "Off-Topics/Math",
     "School/Algoritmusok/02 - Láncolt lista II..md",
     "School/Kriptográfia/Kongruencia.md",
     "School/Kriptográfia/Knapsack.md",
     "School/Robotika/Gyakorlati✏️📝/asd.md",
-    "School/Algoritmusok/01 - Láncolt lista.md",
-    "Untitled.base",
     "School/Robotika/Elmélet🧠/07 - Analogból digitálisba.md",
     "School/Robotika/Elmélet🧠/06 - Potenciométer és Feszültségosztó.md",
     "School/Robotika/Elmélet🧠/05 - Analóg-Digitális Átalakítás (ADC).md",
     "School/Robotika/Elmélet🧠/04 - Alapvető Komponensek (LED, Nyomógomb, Dőléskapcsoló).md",
     "School/Robotika/Elmélet🧠/03 - Elektronikai Alapismeretek és Méréstechnika.md",
     "breadboard.md",
-    "Image links/Pasted image 20260922215455.png",
     "School/Bevezetés a szg. grafikába/Lépcsőhatás.md",
-    "Image links/breadboard-1327459505.jpg",
     "School/Robotika/Elmélet🧠/02 - Fejlesztőkörnyezet és Programozási Alapok.md",
     "School/Robotika/Elmélet🧠/01 - Hardver és Mikrokontroller Alapok.md",
     "School/Algoritmusok",
     "Off-Topics/Hardware/ARM.md",
     "Off-Topics/Hardware/RISC.md",
-    "Off-Topics/Hardware/CISC.md",
     "School/Robotika/Gyakorlati✏️📝",
     "School/Robotika/Elmélet🧠",
     "Off-Topics",
     "Off-Topics/Hardware",
-    "School/Bevezetés a szg. grafikába/01 - Raszteres és Vektor grafika.md",
-    "School/Robotika",
-    "Off-Topics/Programming/XML.md",
-    "Off-Topics/Programming/W3C.md",
-    "Off-Topics/Programming",
-    "Image links",
-    "Szija.md",
-    "School/Kriptográfia",
     "golden_apple.gif",
-    "asd.md",
-    "2026-09-22.md",
-    "create a link.md",
-    "Untitled.canvas",
-    "Welcome.md",
     "Untitled 1.canvas"
   ]
 }
