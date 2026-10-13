@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Kriptográfia/01 - Alapok.md",
+                "file": "Off-Topics/Software/SSL - TLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Alapok"
+              "title": "SSL - TLS"
             }
           }
         ]
@@ -189,6 +189,14 @@
   },
   "active": "7de2e605e55eb52f",
   "lastOpenFiles": [
+    "Off-Topics/Hardware/CISC.md",
+    "Off-Topics/Software/SSL - TLS.md",
+    "Off-Topics/Hardware/ARM.md",
+    "0 Table of Contents/Root.md",
+    "School/Algoritmusok Tervezése/02 - Láncolt lista II..md",
+    "School/Algoritmusok Tervezése/02 - Láncolt lista II",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/00 - Tartalom-Láncolt.md",
+    "School/Kriptográfia/01 - Alapok.md",
     "School/Kriptográfia/11 - Elliptikus görbék.md",
     "School/Kriptográfia/10 - Prímtesztek és faktorizációs eljárások.md",
     "School/Kriptográfia/09 - Az RSA titkosítási rendszer.md",
@@ -198,22 +206,19 @@
     "School/Kriptográfia/04 - DES.md",
     "School/Kriptográfia/03 - Polialfabetikus rendszerek.md",
     "School/Kriptográfia/02 - Monoalfabetikus rendszerek.md",
-    "School/Kriptográfia/01 - Alapok.md",
-    "School/Algoritmusok/01 - Láncolt lista/01 - Láncolt lista alapok.md",
-    "School/Algoritmusok/01 - Láncolt lista/06 - Gyakorlás - Lista építése és keresés.md",
-    "School/Algoritmusok/01 - Láncolt lista/05 - A műveletek időigénye.md",
-    "School/Algoritmusok/01 - Láncolt lista/02 - Az elemek összekapcsolása.md",
-    "School/Algoritmusok/01 - Láncolt lista/03 - Bejárat.md",
-    "School/Algoritmusok/01 - Láncolt lista/04 - Keresés kulcs alapján.md",
-    "School/Algoritmusok/01 - Láncolt lista",
-    "Off-Topics/Programming/W3C.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/01 - Láncolt lista alapok.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/06 - Gyakorlás - Lista építése és keresés.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/05 - A műveletek időigénye.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/02 - Az elemek összekapcsolása.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/03 - Bejárat.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista/04 - Keresés kulcs alapján.md",
+    "School/Algoritmusok Tervezése/01 - Láncolt lista",
+    "Off-Topics/Software/W3C.md",
     "Off-Topics/Math/Görög betűk jelentései.md",
-    "Off-Topics/Programming/XML.md",
-    "0 Table of Contents/Root.md",
+    "Off-Topics/Software/XML.md",
     "Untitled.base",
     "2026-10-10.md",
     "Untitled.canvas",
-    "Untitled.md",
     "0 Table of Contents/Root.base",
     "0 Table of Contents",
     "Image links/Pasted image 20260922215455.png",
@@ -221,15 +226,10 @@
     "Image links/breadboard-1327459505.jpg",
     "Image links/Greek-alphabet-189968408.png",
     "Off-Topics/Math",
-    "School/Algoritmusok/02 - Láncolt lista II..md",
-    "School/Robotika/Gyakorlati✏️📝/asd.md",
-    "School/Robotika/Elmélet🧠/07 - Analogból digitálisba.md",
-    "School/Robotika/Elmélet🧠/06 - Potenciométer és Feszültségosztó.md",
-    "School/Algoritmusok",
+    "School/Algoritmusok Tervezése",
     "School/Robotika/Gyakorlati✏️📝",
     "School/Robotika/Elmélet🧠",
     "Off-Topics",
-    "Off-Topics/Hardware",
     "golden_apple.gif",
     "Untitled 1.canvas"
   ]
