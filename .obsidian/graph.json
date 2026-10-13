@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"0 - Root-place\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:School  ",
+      "color": {
+        "a": 1,
+        "rgb": 2638008
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.69772656493304,
+  "lineSizeMultiplier": 2.25929616941763,
+  "collapse-forces": false,
+  "centerStrength": 0.326066645904703,
+  "repelStrength": 9.90968545624416,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8142596448197176,
+  "linkDistance": 500,
+  "scale": 0.5807914248535684,
   "close": true
 }

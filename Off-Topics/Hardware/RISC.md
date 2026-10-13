@@ -2,7 +2,7 @@
 
 ## A lényeg:
 
-A **RISC** azt jelenti, hogy a processzor **kevés, de egyszerű utasítást** használ, míg az ellentéte a **CISC** (Complex Instruction Set Computer) sokkal több és összetettebb utasítást tartalmaz.
+A **RISC** azt jelenti, hogy a processzor **kevés, de egyszerű utasítást** használ, míg az ellentéte a **[[CISC]]** (Complex Instruction Set Computer) sokkal több és összetettebb utasítást tartalmaz.
 
 ## Összehasonlítás:
 
